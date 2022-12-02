@@ -67,7 +67,9 @@ We have to make a number of assumptions to get to this equation. Necessarily we 
 Answers:
 
 This model ignores the effects of synchrony and correlation between the input neurons.
-This model cannot adequately represent many of the dynamics of individual cells, such as the effect of the refractory period.2.1/3
+This model cannot adequately represent many of the dynamics of individual cells, such as the effect of the refractory period.
+This model assumes static, unchanging inputs, so it does not account for the dynamics resulting from constantly changing inputs.
+2.4/3
 
 
 ## 6.
